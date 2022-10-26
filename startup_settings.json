@@ -1,0 +1,26 @@
+{
+   "pages":[
+      {
+         "title":"Paramètres de démarrage",
+         "topIcon":"/Users/Shared/unify/unify-logo.png",
+         "accessoryViews":[
+            [
+               {
+                  "type":"dropdown",
+                  "payload":"/list Activer\nDésactiver /selected 0 /Title Bong de démarrage"
+               },
+               {
+                  "type":"dropdown",
+                  "payload":"/list Activer\nDésactiver /selected 1 /Title Soulever lʼécran allume lʼordinateur"
+               }
+            ],
+            [
+               {
+                  "type":"image",
+                  "payload":"https://i.imgur.com/3Z9Yrta.png"
+               }
+            ]
+         ]
+      }
+   ]
+}
